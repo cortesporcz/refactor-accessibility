@@ -20,16 +20,14 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-## 💡 Notes
+##  Notes
+[Download Cortes Challenge 1](bootcamp/challenges/Cortes Challenge 1.jpg)
 
-## Visuals
+https://cortesporcz.github.io/refactor-accessibility/
 
-There are 7 different images or visuals within this site. There are no links associated with the images. 
 
 ## Credits
-
 https://github.com/coding-boot-camp/urban-octo-telegram
 
 ## Usage
-
 Output should include attributes that provide for accessiblity. 
